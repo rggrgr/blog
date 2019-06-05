@@ -1,0 +1,19 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-family: Arial;
+}
+
+.links{
+	text-decoration-line: none;
+	margin-bottom: 30px;
+}
+.stat{
+	text-align: center;
+	padding: 15px;
+}
+.pic{
+	margin-bottom: 20px;
+}
